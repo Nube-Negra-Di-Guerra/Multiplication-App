@@ -16,7 +16,7 @@ body{
     align-items: center;
     background-color: goldenrod;
     text-align: center;
-    font-family: cursive;
+    font-family: cursive, Arial, sans-serif;
 }
 
 form{
