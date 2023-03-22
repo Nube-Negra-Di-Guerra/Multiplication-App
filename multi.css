@@ -75,6 +75,7 @@ form{
     filter: brightness(0.9);
 }
 
+
 @media (min-width: 300px) and (max-width: 500px) {
     .header{
         margin: 0;
@@ -96,7 +97,7 @@ form{
         align-items: center;
         background-color: goldenrod;
         text-align: center;
-        font-family: cursive;
+        font-family: Cursive, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
     }
     
     form{
@@ -132,7 +133,7 @@ form{
         color: goldenrod;
         font-weight: bold;
         border-radius: 25px;
-        font-family: cursive;        
+        font-family: Cursive, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
     }
     
     .input ::placeholder{
@@ -149,7 +150,7 @@ form{
         width: 100%;
         padding: 5px;
         font-size: 20px;
-        font-family: cursive;
+        font-family: Cursive, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
         
     }
     
